@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "amount": 250.0,
+        "category": "food",
+        "description": "pizza",
+        "date": "2026-09-21"
+    },
+    {
+        "id": 2,
+        "amount": 100.0,
+        "category": "travel",
+        "description": "auto",
+        "date": "2026-09-21"
+    },
+    {
+        "id": 3,
+        "amount": 500.0,
+        "category": "transaction",
+        "description": "clg",
+        "date": "2026-09-21"
+    },
+    {
+        "id": 4,
+        "amount": 100.0,
+        "category": "travel",
+        "description": "bus",
+        "date": "2026-09-21"
+    },
+    {
+        "id": 5,
+        "amount": 250.0,
+        "category": "travel",
+        "description": "auto",
+        "date": "2026-09-21"
+    },
+    {
+        "id": 6,
+        "amount": 260.0,
+        "category": "travel",
+        "description": "bus",
+        "date": "2026-09-21"
+    },
+    {
+        "id": 7,
+        "amount": 100.0,
+        "category": "travel",
+        "description": "bus",
+        "date": "2026-09-21"
+    },
+    {
+        "id": 8,
+        "amount": 200.0,
+        "category": "food",
+        "description": "pizza",
+        "date": "2026-09-21"
+    },
+    {
+        "id": 9,
+        "amount": 100.0,
+        "category": "travel",
+        "description": "auto",
+        "date": "2026-09-21"
+    },
+    {
+        "id": 10,
+        "amount": 100.0,
+        "category": "travel",
+        "description": "auto",
+        "date": "2026-09-21"
+    },
+    {
+        "id": 11,
+        "amount": 450.0,
+        "category": "rent",
+        "description": "home",
+        "date": "2026-09-21"
+    },
+    {
+        "id": 12,
+        "amount": 100.0,
+        "category": "food",
+        "description": "gobi",
+        "date": "2026-09-21"
+    },
+    {
+        "id": 13,
+        "amount": 2000.0,
+        "category": "food",
+        "description": "mcdonalds",
+        "date": "2026-09-29"
+    }
+]
